@@ -7,7 +7,7 @@ This repository contains the experimental database used in the study *"Advancing
 
 ## Contents
 
-- `data/`
+- `Data/`
   - `alloy_oxidation_886_202406.csv`: Contains the experimental data in CSV format.
   - `alloy_oxidation_886_202406_with_metadata.json`: Contains the experimental data in JSON format.
   - `alloy_oxidation_886_202406.pkl`: Trained XGBoost model to infer specific mass gain of an alloy based on its composition during isothermal oxidation as a function of temperature and time.
