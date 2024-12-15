@@ -9,7 +9,7 @@ This repository contains the experimental database used in the study *"Advancing
 
 - `data/`
   - `alloy_oxidation_886_202406.csv`: Contains the experimental data in CSV format.
-  - `alloy_oxidation_886_202406.json`: Contains the experimental data in JSON format.
+  - `alloy_oxidation_886_202406_with_metadata.json`: Contains the experimental data in JSON format.
   - `alloy_oxidation_886_202406.pkl`: Trained XGBoost model to infer specific mass gain of an alloy based on its composition during isothermal oxidation as a function of temperature and time.
 - `README.md`: Documentation of the dataset.
 
@@ -49,7 +49,7 @@ The dataset can be used to:
 
 If you use this dataset in your research, please cite the original publication:
 
-> S. Gorsse et al., "Advancing Refractory High Entropy Alloy Development with AI-Predictive Models for High Temperature Oxidation Resistance," Scripta Materialia, vol. 255, 2025. DOI: [10.1016/j.scriptamat.2024.116394](https://doi.org/10.1016/j.scriptamat.2024.116394).
+> S. Gorsse et al., "Advancing Refractory High Entropy Alloy Development with AI-Predictive Models for High Temperature Oxidation Resistance," Scripta Materialia 255 (2025) 116394. DOI: [10.1016/j.scriptamat.2024.116394](https://doi.org/10.1016/j.scriptamat.2024.116394).
 
 ## License
 
